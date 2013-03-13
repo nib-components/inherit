@@ -1,0 +1,6 @@
+{
+  "name": "inherit",
+  "version": "0.0.1",
+  "description": "Prototypal Inheritance",
+  "scripts": ["index.js"]
+}
