@@ -1,0 +1,10 @@
+{
+  "name": "@nib-components/inherit",
+  "version": "0.0.1",
+  "description": "Prototypal Inheritance",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nib-components/inherit.git"
+  }
+}
